@@ -1,0 +1,25 @@
+body{
+    background-color: lightgrey;
+}
+
+.right{
+    text-align: right;
+    margin-right: 25px;
+    margin-left: auto;
+}
+ .boldtext{
+     font-weight: bold;
+     font-size: 25px;
+ }
+ .left{
+     text-align: left;
+     margin-right: auto;
+     margin-left: 20px;
+ }
+.video{
+    vertical-align: middle;
+}
+.arnold{
+    display: inline-block;
+}
+ 
